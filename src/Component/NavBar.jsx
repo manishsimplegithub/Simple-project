@@ -11,7 +11,12 @@ const NavBar = () => {
                 <div className="col-12 mx-auto">
                   <nav className="navbar navbar-expand-lg">
                     <div className="container-fluid">
-                      <a className="navbar-brand">Animation</a>
+                      <a
+                        className="navbar-brand"
+                        href="/Simple-project/public/index.html"
+                      >
+                        Animation
+                      </a>
                       <button
                         className="navbar-toggler"
                         type="button"
