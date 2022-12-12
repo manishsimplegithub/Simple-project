@@ -1,5 +1,5 @@
 import React from "react";
-import wab from "./images/first.jpeg";
+// import wab from "./images/first.jpeg";
 import "./images/web.jpg";
 
 const Ourcard = (props) => {
